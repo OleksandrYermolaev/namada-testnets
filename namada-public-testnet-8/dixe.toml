@@ -1,0 +1,9 @@
+[validator.dixe]
+consensus_public_key = "002474206e91d093a0b78278de92666b1a19b6ba0eedab5ee9c3378f7b55cd3d2a"
+account_public_key = "001258e126ac9055c9d0858c9f058272fb6847cae1f931840c5c7dd4e5897d1cb3"
+protocol_public_key = "0050f3d84722292074cb6b59ba95b75bc75f79c02bba6b5f419a2eb090e7989c80"
+dkg_public_key = "60000000dd9bf56beb8e7312a5a902c4082ea9ff1161af5b817540b168eaae9bed9389de204e94ad5f239c1929871ede71d7df0771884f51c6dc8a1edcfffc0daaeb4d5a5f9b2e2a494a26a35301dbc1cbf80a28d89a7c1c0bd245ef326d5a1201783f0a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "159.69.116.238:26656"
+tendermint_node_key = "0095c408a0895fefd8597cdd93c52ecfc816d4d5f2061cb6539e7cc2016caa1e03"
